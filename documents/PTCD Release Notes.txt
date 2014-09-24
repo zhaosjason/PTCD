@@ -1,0 +1,20 @@
+#################### PTCD Release Notes #################### 
+
+
+PTCD 1.0.1 ~ July 4th, 2013 ~ First PTCD Update!
+--------------------------------------------------------------------------------------------------------------------
+Bug Fixes & Updates:
+ - Fixed location bug when adding a chemical to database
+ - Updated Home page navigation bar icons
+ - Removed column highlighting when sorting editable database table
+ - Moved link to PTCD Troubleshooting Manual on About page
+ - Removed links to admin password change and labeling page on About page
+ - Minor styling tweaks to Authentication page
+
+New features:
+ - Authentication page redirects to URL in address bar instead of always redirecting to Home page
+ - Added sorting feature to editable database table
+ - Labeling "ID-ID" (ex. 1-500) function now skips over missing IDs (can be manually overriden to not do so)
+ - Added link on About page to Release Notes
+ - Introduced Release Notes :)
+--------------------------------------------------------------------------------------------------------------------
